@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.DPS" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#05080A</item>
+        <item name="android:navigationBarColor">#05080A</item>
+        <item name="android:windowBackground">#05080A</item>
+        <item name="android:colorAccent">#249BFF</item>
+    </style>
+</resources>

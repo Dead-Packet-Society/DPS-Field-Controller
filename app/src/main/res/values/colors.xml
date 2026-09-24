@@ -1,0 +1,12 @@
+<resources>
+    <color name="dps_bg">#05080A</color>
+    <color name="dps_panel">#0A1218</color>
+    <color name="dps_panel2">#0D171F</color>
+    <color name="dps_line">#16405A</color>
+    <color name="dps_blue">#249BFF</color>
+    <color name="dps_green">#70FF45</color>
+    <color name="dps_red">#FF3030</color>
+    <color name="dps_purple">#A36BFF</color>
+    <color name="dps_text">#D9E9F8</color>
+    <color name="dps_muted">#82A5C3</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sampled from the emblem's own background so the adaptive icon's
+         background layer blends seamlessly behind the foreground artwork. -->
+    <color name="ic_launcher_background">#000000</color>
+</resources>
