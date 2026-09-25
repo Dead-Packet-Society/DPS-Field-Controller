@@ -18,10 +18,8 @@ XIAO ESP32-C5 Nodes
 ### Components
 
 - Android field controller
-- Waveshare ESP32-C5 controller
-- Heltec V3 controller
-- XIAO ESP32-C5 scanning nodes
-- OSMdroid/OpenStreetMap mapping
+- ESP32-C5 controller
+- ESP32-C5 scanning nodes
 
 ### Status
 
